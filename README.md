@@ -30,7 +30,6 @@ advanced-cicd-demo/
 - ✅ **Safe rollbacks on deployment failure**
 - ✅ **Visual dashboards for deployment monitoring**
 
----
 ```
 ## 🛠 Tech Stack
 ```
