@@ -164,10 +164,12 @@ git push origin main
 
 ---
 
-## 👥 Authors
+## Team Members
 
-* 👤 Akshay Malik
-* 👥 Team Members
+* Akshay Malik
+* Vaibhav Mishra
+* Md Abdul Rafay
+* Samir Mishra
 
 ---
 
