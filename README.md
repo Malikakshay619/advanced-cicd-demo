@@ -57,11 +57,13 @@ advanced-cicd-demo/
 ---
 
 ###  Setup Instructions
-
+```
 #### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/<your-username>/advanced-cicd-demo.git
 cd advanced-cicd-demo
+
 ````
 
 #### 2️⃣ Build & Push Docker Image
