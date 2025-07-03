@@ -1,6 +1,8 @@
 ```markdown
+```
 #  Advanced CI/CD Demo with ArgoCD & Argo Rollouts
-
+```
+```
 This project demonstrates a **GitOps-based deployment pipeline** using **Argo CD**, **Argo Rollouts**, and **Kubernetes** for a sample Nginx web application. It features **progressive delivery** using Canary deployments, automatic rollbacks, and live monitoring.
 
 ---
@@ -55,8 +57,9 @@ advanced-cicd-demo/
 - Access to Docker Hub (for image pushes)
 
 ---
-
+```
 ###  Setup Instructions
+```
 ```
 #### 1️⃣ Clone the Repository
 
