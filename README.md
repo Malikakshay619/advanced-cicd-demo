@@ -190,10 +190,4 @@ git push origin main
 
 ---
 
-Do you want me to:  
-✅ Add a **diagram showing the GitOps flow (GitHub → Argo CD → Kubernetes → User)?**  
-✅ Or also include **screenshots of Argo CD & Rollouts dashboards** directly in the README?  
-✅ Or make it **more beginner-friendly** with short explanations of each step (for classmates)?  
-
-Which one? Or all three?
 ```
