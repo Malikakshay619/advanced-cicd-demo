@@ -41,8 +41,6 @@ advanced-cicd-demo/
 | **Kubernetes**     | Container orchestration                  |
 | **Prometheus**     | Metrics collection for health checks     |
 | **GitHub**         | Version control & single source of truth |
-
----
 ```
 ### 🖥 Prerequisites
 ```
@@ -52,7 +50,6 @@ advanced-cicd-demo/
 - Argo CD & Argo Rollouts installed in the cluster
 - Access to Docker Hub (for image pushes)
 
----
 ```
 ### 🚀 Setup Instructions
 
