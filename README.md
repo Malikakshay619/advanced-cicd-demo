@@ -5,8 +5,6 @@
 ```
 This project demonstrates a **GitOps-based deployment pipeline** using **Argo CD**, **Argo Rollouts**, and **Kubernetes** for a sample Nginx web application. It features **progressive delivery** using Canary deployments, automatic rollbacks, and live monitoring.
 ```
----
-
 ## Project Structure
 ```
 ```
