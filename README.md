@@ -44,11 +44,9 @@ advanced-cicd-demo/
 | **GitHub**         | Version control & single source of truth |
 
 ---
-
-## ⚡ Quick Start
-
+```
 ### 🖥 Prerequisites
-
+```
 - Docker
 - kubectl
 - Minikube/Kind (or any K8s cluster)
@@ -56,8 +54,9 @@ advanced-cicd-demo/
 - Access to Docker Hub (for image pushes)
 
 ---
-
+```
 ### 🚀 Setup Instructions
+```
 ```
 #### 1️⃣ Clone the Repository
 
