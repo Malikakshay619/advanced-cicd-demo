@@ -9,9 +9,6 @@ spec:
       steps:
         - setWeight: 20
         - pause: { duration: 30s }
-        - analysis:
-            templates:
-              - templateName: success-rate-prometheus
         - setWeight: 60
         - pause: { duration: 30s }
         - setWeight: 100
@@ -28,4 +25,3 @@ spec:
           image: malikakshay619/webapp:latest
           ports:
             - containerPort: 80
-
