@@ -174,8 +174,6 @@ git push origin main
 ---
 
 ## 📚 Learn More
-```
-```
 * [Argo CD Docs](https://argo-cd.readthedocs.io)
 * [Argo Rollouts Docs](https://argoproj.github.io/argo-rollouts/)
 * [Kubernetes Docs](https://kubernetes.io/docs/)
