@@ -1,5 +1,5 @@
 ```markdown
-```
+
 #  Advanced CI/CD Demo with ArgoCD & Argo Rollouts
 ```
 
