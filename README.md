@@ -7,7 +7,7 @@ This project demonstrates a **GitOps-based deployment pipeline** using **Argo CD
 
 ## 📦 Project Structure
 
-```
+
 
 advanced-cicd-demo/
 ├── app/
@@ -19,9 +19,7 @@ advanced-cicd-demo/
 │   └── analysis.yaml      # Argo Rollouts AnalysisTemplate for health checks
 └── README.md              # This file
 
-````
 
----
 
 ##  Features
 
@@ -33,7 +31,7 @@ advanced-cicd-demo/
 
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 
 | Tool               | Purpose                                  |
 |--------------------|------------------------------------------|
@@ -46,7 +44,7 @@ advanced-cicd-demo/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 🖥 Prerequisites
 - Docker
@@ -57,7 +55,7 @@ advanced-cicd-demo/
 
 ---
 
-### 🏗 Setup Instructions
+###  Setup Instructions
 
 #### 1️⃣ Clone the Repository
 ```bash
@@ -129,7 +127,7 @@ Open in browser: [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 📈 Demo: Progressive Delivery
+## Demo: Progressive Delivery
 
 1. Edit `app/index.html`:
 
@@ -157,7 +155,7 @@ git push origin main
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 | Dashboard    | URL                                            |
 | ------------ | ---------------------------------------------- |
