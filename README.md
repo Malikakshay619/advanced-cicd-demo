@@ -187,7 +187,3 @@ git push origin main
 * [Kubernetes Docs](https://kubernetes.io/docs/)
 
 ```
-
----
-
-```
