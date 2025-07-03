@@ -1,5 +1,5 @@
 ```markdown
-```
+
 # Advanced CI/CD Demo with ArgoCD & Argo Rollouts
 
 
@@ -7,7 +7,7 @@ This project demonstrates a **GitOps-based deployment pipeline** using **Argo CD
 
 ---
 ## Project Structure
-```
+
 advanced-cicd-demo/
 ├── app/
 │   ├── Dockerfile         # Dockerfile for Nginx web app
