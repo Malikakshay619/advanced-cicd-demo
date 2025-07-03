@@ -7,7 +7,7 @@ This project demonstrates a **GitOps-based deployment pipeline** using **Argo CD
 ---
 
 ## Project Structure
-
+```
 ```
 advanced-cicd-demo/
 ├── app/
@@ -34,7 +34,7 @@ advanced-cicd-demo/
 ---
 ```
 ## 🛠 Tech Stack
-
+```
 | Tool               | Purpose                                  |
 |--------------------|------------------------------------------|
 | **ArgoCD**         | GitOps-based Continuous Delivery         |
