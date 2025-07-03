@@ -56,8 +56,7 @@ advanced-cicd-demo/
 ---
 ```
 ### 🚀 Setup Instructions
-```
-```
+
 #### 1️⃣ Clone the Repository
 
 ```bash
